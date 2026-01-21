@@ -35,4 +35,7 @@ The model predicts whether a given chest X-ray image shows Pneumonia or Normal c
 
 ## Author
 Pavithra Thennarasu
+Note:
+The dataset is not included in this repository due to large file size.
+Please download the Chest X-ray Pneumonia dataset separately and update the dataset path in the notebook before running.
 
